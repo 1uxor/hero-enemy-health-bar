@@ -24,3 +24,7 @@ fists = Weapon(name="Fists",
                weapon_type="blunt",
                damage=2,
                value=0)
+epic_sword = Weapon(name="xcalibure",
+                    weapon_type="sharp",
+                    damage=20,
+                    value=15)
